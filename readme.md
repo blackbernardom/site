@@ -14,7 +14,7 @@ Faça login no docker
 
 ` docker login `
 
-Mude no Dokcker file = "description="Disponibilizando site com NGINX" maintainer="Bernardo Brodt<bernardoclassea@gmail.com>"
+Mude no Dokcker file = "description="Disponibilizando site com NGINX" maintainer=""
 
 Mude no Makefile DOCKERIMAGE para o nome da sua imagem.
 

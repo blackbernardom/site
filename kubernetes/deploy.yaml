@@ -17,10 +17,9 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: bernardom/site-dos-guris
+        image: bernardom/sitedobe
         ports:
         - containerPort: 80
-        protocol: TCP
         resources:
           limits:
             memory: 512Mi
